@@ -4,6 +4,13 @@ a minimal notes app built with react native and expo. clean black and white ui, 
 
 ---
 
+
+| | | | |
+|---|---|---|---|
+| <img width="100" src="https://github.com/user-attachments/assets/8a875551-7076-4e71-ab32-9be11a71e633" /> | <img width="100" src="https://github.com/user-attachments/assets/63435603-0c33-41c3-84cb-f6f6ab3271bc" /> | <img width="100" src="https://github.com/user-attachments/assets/ed07b38e-5699-4493-9119-be4a3f4d3247" /> | <img width="100" src="https://github.com/user-attachments/assets/1c49a266-f2c3-42cb-bc7f-af1ecea68594" /> |
+
+
+
 ## screens
 
 **view 1 .. notes list**
@@ -27,6 +34,8 @@ a minimal notes app built with react native and expo. clean black and white ui, 
 - shows "update" instead of "save" when editing an existing note
 
 ---
+
+https://github.com/user-attachments/assets/64ec610c-c113-4e36-ad5f-51736cc3cdeb
 
 ## components and hooks used
 
@@ -86,3 +95,4 @@ requires `react-native-svg` .. already in package.json.
 - "update" vs "save" label based on edit state
 - soft off-white and off-black theme colors .. easier on the eyes
 - tablet responsive grid with `usenwindowdimensions`
+
